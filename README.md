@@ -3,7 +3,7 @@ This repository serves as an in-depth resource on fundamental JavaScript concept
 
 The repository includes key JavaScript topics such as:
 
-Higher-Order Functions Callback Functions Promises Closures
+Higher-Order Functions Callback Functions Async Function Promises Closures
 
 Each topic is accompanied by detailed explanations and examples to demonstrate when and how to apply the concepts.
 
