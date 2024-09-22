@@ -6,4 +6,4 @@ function listeners(){
 }
 listeners();
 
-//
+//This is an example script
